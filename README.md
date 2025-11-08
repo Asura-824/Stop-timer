@@ -16,7 +16,7 @@ A simple, command-line utility written in Python that provides two essential tim
 
 1.  **Clone the repository** (if you're hosting this on GitHub):
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/Asura-824/Stop-timer.git
     cd timer-stopwatch-utility
     ```
 
